@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yashwant361
-- 👀 I’m interested in ...Android Development and Web Development
-- 🌱 I’m currently learning ...Java Language
+- 👀 I’m interested in ...Full Stack Development
+- 🌱 I’m currently learning ...Mern Stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

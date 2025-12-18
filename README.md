@@ -24,38 +24,38 @@
 
 ## 🛠️ Tech Stack
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode" />
-</p>
+</p> -->
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" height="160"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" height="160"/>
-</p>
+</p> -->
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark&row=1&column=6" />
-</p>
+</p> -->
 
 ---
 
 ## 📈 Contribution Graph (Snake Animation)
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/Yashwant361/Yashwant361/output/github-contribution-grid-snake.svg" />
-</p>
+</p> -->
 
 
 ---

@@ -22,9 +22,10 @@
 
 ---
 
+<!-- 
 ## 🛠️ Tech Stack
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode" />
 </p> -->
 
@@ -42,18 +43,18 @@
 </p> -->
 
 ---
-
+<!--
 ## 🏆 GitHub Trophies
 
-<!-- <p align="center">
+ <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark&row=1&column=6" />
 </p> -->
 
 ---
-
+<!--
 ## 📈 Contribution Graph (Snake Animation)
 
-<!-- <p align="center">
+ <p align="center">
   <img src="https://raw.githubusercontent.com/Yashwant361/Yashwant361/output/github-contribution-grid-snake.svg" />
 </p> -->
 

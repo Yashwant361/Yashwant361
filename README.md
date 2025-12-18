@@ -54,8 +54,9 @@
 ## 📈 Contribution Graph (Snake Animation)
 
 <p align="center">
-  <img src="https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Yashwant361/Yashwant361/output/github-contribution-grid-snake.svg" />
 </p>
+
 
 ---
 

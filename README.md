@@ -66,7 +66,7 @@
 - 📧 Email: yashwantray57@gmail.com  
 - 💼 GitHub: https://github.com/Yashwant361 
 - 🌐 Digital CV:  https://yashwant361.github.io/Yashwant_Resume/ 
--  🔗 LinkedIn:  https://www.linkedin.com/in/yashwant-ray-510146214/ 
+-  🔗 LinkedIn: https://www.linkedin.com/in/yashwantray361/
 
 ---
 

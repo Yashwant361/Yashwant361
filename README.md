@@ -1,5 +1,5 @@
 
-# 🚀 Ray | Full-Stack Developer (MERN)
+Yashwant Ray | Full-Stack Developer (MERN)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=38B2AC&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Node.js+%7C+MongoDB+%7C+Express;Learning+%26+Building+Every+Day;Open+to+Opportunities" alt="Typing SVG" />
@@ -91,27 +91,21 @@
 
 ## 🏆 Achievements
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark&row=1&column=6"/>
-</p>
+</p> -->
 
 ---
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark" />
-</p>
 
 ---
 
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/yashwantray361">
     <img src="https://img.shields.io/badge/LinkedIn-333?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:yashwantray57@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333?style=for-the-badge&logo=gmail">
   </a>
 </p>

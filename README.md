@@ -6,7 +6,7 @@ Yashwant Ray | Full-Stack Developer (MERN)
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username= https://github.com/Yashwant361 &label=Profile%20Views&color=blue&style=flat" />
   <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat" />
   <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?label=Stars&style=flat" />
 </p>

@@ -1,5 +1,5 @@
 
-Yashwant Ray | Full-Stack Developer (MERN)
+<b>Yashwant Ray | Full-Stack Developer (MERN)</b>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=38B2AC&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Node.js+%7C+MongoDB+%7C+Express;Learning+%26+Building+Every+Day;Open+to+Opportunities" alt="Typing SVG" />

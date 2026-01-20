@@ -16,10 +16,10 @@
 ## 👨‍💻 About Me
 
 🎓 2024 Graduate  
-💻 Aspiring **Full-Stack / Node.js Developer**  
-📍 Bengaluru, India  
-🚀 Actively building real-world projects  
-🎯 Goal: **Land a developer role & grow into a strong backend engineer**
+💻 Aspiring **Full-Stack / Node.js Developer**. 
+📍 Bengaluru, India.  
+🚀 Actively building real-world projects.
+🎯 Goal: **Land a developer role & grow into a strong backend engineer**.
 
 ---
 

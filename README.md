@@ -72,7 +72,7 @@
 - Google Authentication  
 - MERN stack  
 
-🔗 Repo: Coming Soon
+🔗 Live:([url](https://build-ecom-o2d2-git-main-alogs-projects-375b7caf.vercel.app/))
 
 ---
 

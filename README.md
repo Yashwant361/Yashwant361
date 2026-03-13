@@ -111,16 +111,15 @@ https://build-ecom-o2d2-git-main-alogs-projects-375b7caf.vercel.app/
 ## 📜 Certifications
 
 <p align="left">
-
-<a href="YOUR_FREECODECAMP_CERTIFICATE_LINK">
+<a href="https://www.hackerrank.com/certificates/c502316e285b">
+<img src="https://img.shields.io/badge/HackerRank-Problem%20Solving%20Certificate-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+  
+<a href="https://github.com/Yashwant361/certificates/blob/main/DSA%20CERTIFICATE.pdf">
 <img src="https://img.shields.io/badge/FreeCodeCamp-JavaScript%20Algorithms%20%26%20Data%20Structures-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white"/>
 </a>
 
-<a href="YOUR_HACKERRANK_CERTIFICATE_LINK">
-<img src="https://img.shields.io/badge/HackerRank-Problem%20Solving%20Certificate-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="YOUR_SIMPLILEARN_CERTIFICATE_LINK">
+<a href="https://github.com/Yashwant361/certificates/blob/main/GitHub.pdf">
 <img src="https://img.shields.io/badge/Simplilearn-Web%20Development%20Certification-FF6F00?style=for-the-badge&logo=simplilearn&logoColor=white"/>
 </a>
 

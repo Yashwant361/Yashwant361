@@ -1,7 +1,7 @@
 
 <b>Yashwant Ray | Full-Stack Developer (MERN)</b>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=38B2AC&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Node.js+%7C+MongoDB+%7C+Express;Learning+%26+Building+Every+Day;Open+to+Opportunities" alt="Typing SVG" />
 </p>
 
@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username= https://github.com/Yashwant361 &label=Profile%20Views&color=blue&style=flat" />
   <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat" />
   <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?label=Stars&style=flat" />
-</p>
+</p> -->
 
 ---
 

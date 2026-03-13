@@ -49,6 +49,20 @@
 
 ---
 
+## 📜 Certifications & Badges
+
+<p align="left">
+  <a href="https://freecodecamp.org">
+    <img src="https://shields.io" />
+  </a>
+  <a href="YOUR_SIMPLILEARN_LINK">
+    <img src="https://shields.io" />
+  </a>
+  <a href="https://hackerrank.com">
+    <img src="https://shields.io" />
+  </a>
+</p>
+
 ## 🧩 Projects
 
 ### 🔐 LockBox – Private Diary Web App

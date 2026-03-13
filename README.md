@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username= https://github.com/Yashwant361 &label=Profile%20Views&color=blue&style=flat" />
   <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat" />
   <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?label=Stars&style=flat" />
-</p> 
+</p>
 
 ---
 
@@ -22,6 +22,19 @@
 🎯 Goal: **Land a developer role & grow into a strong backend engineer**.
 
 ---
+## 📜 Certifications & Badges
+
+<p align="left">
+  <a href="https://freecodecamp.org">
+    <img src="https://shields.io" />
+  </a>
+  <a href="YOUR_SIMPLILEARN_LINK">
+    <img src="https://shields.io" />
+  </a>
+  <a href="https://hackerrank.com">
+    <img src="https://shields.io" />
+  </a>
+</p>
 
 ## 🛠️ Tech Stack
 
@@ -48,20 +61,6 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-333?style=for-the-badge&logo=visualstudiocode)
 
 ---
-
-## 📜 Certifications & Badges
-
-<p align="left">
-  <a href="[https://freecodecamp.org](https://github.com/Yashwant361/certificates/blob/main/DSA%20CERTIFICATE.pdf)">
-    <img src="https://shields.io" />
-  </a>
-  <a href="https://github.com/Yashwant361/certificates/blob/main/GitHub.pdf">
-    <img src="https://shields.io" />
-  </a>
-  <a href="[https://hackerrank.com](https://www.hackerrank.com/certificates/c502316e285b)">
-    <iframe src="https://hackerrank-badge.herokuapp.com/https://github.com/Yashwant361" style="border: 0; height: 230px; width: 240px; overflow:hidden;" scrolling="no" frameBorder="0"></iframe>
-  </a>
-</p>
 
 ## 🧩 Projects
 

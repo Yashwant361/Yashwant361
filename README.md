@@ -76,7 +76,7 @@
 
 ---
 
-<!-- <p align="center">
+<p align="center">
 ## 📊 GitHub Stats
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="165"/>
@@ -84,16 +84,16 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
-</p> -->
+</p> 
 
 ---
 
 
 
-<!-- <p align="center">
+<p align="center">
 ## 🏆 Achievements
   <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark&row=1&column=6"/>
-</p> -->
+</p> 
 
 ---
 

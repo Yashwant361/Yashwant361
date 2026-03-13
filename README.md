@@ -108,13 +108,24 @@ https://build-ecom-o2d2-git-main-alogs-projects-375b7caf.vercel.app/
 
 ---
 
-# 🏆 Achievements
+## 📜 Certifications
 
-<p align="center">
+<p align="left">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Yashwant361&theme=onedark&row=1&column=6"/>
+<a href="YOUR_FREECODECAMP_CERTIFICATE_LINK">
+<img src="https://img.shields.io/badge/FreeCodeCamp-JavaScript%20Algorithms%20%26%20Data%20Structures-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white"/>
+</a>
+
+<a href="YOUR_HACKERRANK_CERTIFICATE_LINK">
+<img src="https://img.shields.io/badge/HackerRank-Problem%20Solving%20Certificate-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="YOUR_SIMPLILEARN_CERTIFICATE_LINK">
+<img src="https://img.shields.io/badge/Simplilearn-Web%20Development%20Certification-FF6F00?style=for-the-badge&logo=simplilearn&logoColor=white"/>
+</a>
 
 </p>
+
 
 ---
 

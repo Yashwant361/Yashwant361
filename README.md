@@ -52,13 +52,13 @@
 ## 📜 Certifications & Badges
 
 <p align="left">
-  <a href="https://freecodecamp.org">
+  <a href="[https://freecodecamp.org](https://github.com/Yashwant361/certificates/blob/main/DSA%20CERTIFICATE.pdf)">
     <img src="https://shields.io" />
   </a>
-  <a href="YOUR_SIMPLILEARN_LINK">
+  <a href="https://github.com/Yashwant361/certificates/blob/main/GitHub.pdf">
     <img src="https://shields.io" />
   </a>
-  <a href="https://hackerrank.com">
+  <a href="[https://hackerrank.com](https://www.hackerrank.com/certificates/c502316e285b)">
     <img src="https://shields.io" />
   </a>
 </p>

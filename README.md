@@ -1,4 +1,3 @@
-
 <b>Yashwant Ray | Full-Stack Developer (MERN)</b>
 
 <p align="center">
@@ -6,9 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username= https://github.com/Yashwant361 &label=Profile%20Views&color=blue&style=flat" />
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat" />
-  <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?label=Stars&style=flat" />
+  <img src="https://komarev.com" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
 </p>
 
 ---
@@ -42,60 +41,46 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-333?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-333?style=for-the-badge&logo=mysql)
 
-### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-333?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS%20Code-333?style=for-the-badge&logo=visualstudiocode)
+---
+
+## 📜 Certifications & Badges
+
+<p align="left">
+  <a href="https://freecodecamp.org">
+    <img src="https://shields.io" />
+  </a>
+  <a href="YOUR_SIMPLILEARN_LINK">
+    <img src="https://shields.io" />
+  </a>
+  <a href="https://hackerrank.com">
+    <img src="https://shields.io" />
+  </a>
+</p>
 
 ---
 
 ## 🧩 Projects
 
 ### 🔐 LockBox – Private Diary Web App
-- AES Encryption  
-- Secure authentication  
-- Node.js + MongoDB  
-
-🔗 Repo: Coming Soon
-
----
-
-### 🚌 School Bus Tracking System
-- Real-time tracking concept  
-- Safety-focused UX  
-
-🔗 Repo: Coming Soon
-
----
+- AES Encryption | Node.js + MongoDB  
+🔗 Repo: [Coming Soon](#)
 
 ### 🛒 E-Commerce Web App
-- Google Authentication  
-- MERN stack  
-
-🔗 Live:([url](https://build-ecom-o2d2-git-main-alogs-projects-375b7caf.vercel.app/))
+- Google Auth | MERN Stack  
+🔗 [Live Demo](https://build-ecom-o2d2-git-main-alogs-projects-375b7caf.vercel.app/)
 
 ---
 
 <p align="center">
 ## 📊 GitHub Stats
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="165"/>
+  <img src="https://vercel.app" height="165"/>
+  <img src="https://herokuapp.com" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
-</p> 
-
----
-
-
-
-<p align="center">
 ## 🏆 Achievements
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark&row=1&column=6"/>
+  <img src="https://vercel.app"/>
 </p> 
-
----
 
 ---
 
@@ -110,30 +95,6 @@
   </a>
 </p>
 
----
-
-## 🎯 Current Focus
-
-- Master Node.js backend
-- Improve DSA problem-solving
-- Build production-ready projects
-- Prepare for interviews
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38B2AC,100:3182CE&height=120&section=footer"/>
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-

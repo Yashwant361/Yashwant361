@@ -94,7 +94,7 @@ https://build-ecom-o2d2-git-main-alogs-projects-375b7caf.vercel.app/
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Yashwant361&show_icons=true&theme=tokyonight" height="165"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Yashwant361&show_icons=true&theme=tokyonight" height="165"/> -->
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashwant361&theme=tokyonight" height="165"/>
 
@@ -102,7 +102,7 @@ https://build-ecom-o2d2-git-main-alogs-projects-375b7caf.vercel.app/
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwant361&layout=compact&theme=tokyonight"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwant361&layout=compact&theme=tokyonight"/> -->
 
 </p>
 
@@ -111,8 +111,20 @@ https://build-ecom-o2d2-git-main-alogs-projects-375b7caf.vercel.app/
 ## 📜 Certifications
 
 <p align="left">
+  
 <a href="https://www.hackerrank.com/certificates/c502316e285b">
-<img src="https://img.shields.io/badge/HackerRank-Problem%20Solving%20Certificate-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HackerRank-JavaScript%20Certificate-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</a>
+<a href="https://www.hackerrank.com/certificates/448db548a341">
+  <img src="https://img.shields.io/badge/HackerRank-Rest%20API%20(Intermediate)-00ADD8?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/certificates/10cb48b4627b">
+  <img src="https://img.shields.io/badge/HackerRank-SQL%20(Basic)-336791?style=for-the-badge&logo=mysql&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/certificates/22683ef5cfb6">
+  <img src="https://img.shields.io/badge/HackerRank-Software%20Engineer-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
   
 <a href="https://github.com/Yashwant361/certificates/blob/main/DSA%20CERTIFICATE.pdf">

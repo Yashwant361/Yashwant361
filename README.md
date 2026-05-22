@@ -51,18 +51,18 @@
 
 # 🧩 Projects
 
-### 🔐 LockBox – Private Diary Web App
-Secure digital diary designed for privacy.
+### GreenDot Classroom | MERN Stack Project
 
-**Features**
-- AES Encryption
-- Secure Authentication
-- Private vault system
+* Built a full-stack classroom monitoring platform using React, Node.js, Express, and MongoDB Atlas to track students' daily GitHub coding activity.
+* Implemented JWT-based tutor authentication and protected routes for secure dashboard access.
+* Integrated GitHub GraphQL API to fetch and display real-time daily contribution data and commit statistics.
+* Refactored frontend into scalable architecture using reusable React components, custom hooks, service layers, and route-based separation.
+* Deployed production-ready application using Vercel (frontend) and Render (backend) with MongoDB Atlas cloud database integration.
 
-**Tech Stack**
-Node.js • Express • MongoDB
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB Atlas, Tailwind CSS, JWT, GitHub GraphQL API, Vercel, Render
 
-Repo: *Coming Soon*
+
+Live Demo:  https://green-dot-jg1j.vercel.app/
 
 ---
 
